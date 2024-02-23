@@ -1,5 +1,7 @@
-ThemeHub
-Description
+#ThemeHub
+
+
+#Description
 
 ThemeHub is a web application designed for managing themes for user interfaces. It provides administrators with the ability to upload new themes, select default themes, and apply them to user interfaces dynamically.
 Installation
@@ -38,7 +40,7 @@ Usage
 Created by
 
 This project was created by @techerrorNR.
-Contributing
+
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests to suggest improvements or add new features.
 License
